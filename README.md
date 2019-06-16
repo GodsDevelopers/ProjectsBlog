@@ -1,0 +1,1 @@
+Simple blog where our team are going to write about our`s projects and problems or tasks that we solved.
