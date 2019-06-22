@@ -1,0 +1,319 @@
+h1, h6, h2, h3, h4, p, span, button, input {
+	font-family: "Exo", sans-serif;
+	font-size: 16px;
+	color: #282828
+	line-height: 16px; 
+	font-weight: 500;
+	display: block;
+}
+
+h6 {
+	color: #ff9494;
+}
+
+h2, h1 {
+	font-size: 40px;
+}
+
+button, input, li {
+	outline: none;
+	display: inline-block;
+}
+
+body {
+	background: #282828;
+}
+
+
+
+.Corparate_Landing_Page {
+	text-align: center;
+	margin:0 auto;
+	width: 1440px;
+	height: 4963px;
+	background: url(imges/Background_Of_All.png) center no-repeat;
+}
+.box {
+	width: auto;
+	height: auto;
+}
+
+
+
+/*Article*/
+.Article {
+	height: 833px;
+	background: url(imges/Background_1.jpg) center no-repeat;
+	padding-top: 150px;
+}
+
+.Article h1 {
+	font-style: 60px;
+	font-weight: 100;
+}
+.Play_Buttom {
+	margin-top: 10px;
+	border: none;
+	background: none;
+}
+.Try_now_bottom {
+	margin-top: 40px;
+	width: 190px;
+	height: 50px;
+	border-radius: 5px;
+	background-color: #ff6d6d;
+	color: white;
+	border: none;
+}
+.Article h6 {
+	margin-top: 20px;
+	font-style: 14px;
+	color: #282828;
+}
+
+
+
+/*Section 2*/
+.Section_2 {
+	height: 555px;
+	text-align: left;;
+}
+.Section_2 h2 {
+	margin-top: 20px;
+	width: 540px;
+}
+.Section_2 p {
+	margin-top: 60px;
+	width: 540px;
+	line-height: 20px;
+}
+.Section_2 h6 {
+	width: 540px;
+}
+.Section_2 .Second {
+	margin-top: 45px;
+}
+.Section_2 .box {
+	padding-top: 100px;
+	padding-left: 155px;
+}
+
+
+
+/*Section 3*/
+.Section_3 {
+	height: 678px;
+}
+.Section_3 .box {
+	padding-top: 140px;	
+}
+.Section_3 h2 {
+	padding-top: 20px;
+}
+.Section_3 td {
+	width: 345px;
+	padding-top: 60px;
+	padding-right: 45px;
+}
+.Section_3 .MainTD {
+	padding-left: 160px;
+}
+
+
+
+/*Description*/
+.Description {
+	height: 550px;
+}
+.Description .box {
+	padding-left: 740px;
+	padding-top: 145px;
+	width: 500px;
+	text-align: left;
+}
+.Description h2 {
+	padding-top: 30px;
+}
+.Description p {
+	padding-top: 50px;
+}
+
+
+
+/*Clients*/
+.Clients {
+	height: 648px;
+	background: url(imges/Background_5.png) center no-repeat;
+}
+.box {
+	padding-top: 110px;
+}
+.Clients .Client {
+	width: 330px;
+}
+.T {
+	padding-left: 200px;
+}
+.Clients h4{
+	padding-top: 25px;
+	color: white;
+	font-size: 22px;
+}
+.Clients h6 {
+	padding-top: 15px;
+}
+.Clients p {
+	padding-top: 40px;
+	color: #a9a9ac;
+}
+.Logo {
+	padding-top: 100px;
+	padding-right: 90px;
+}
+.Logo_1 {
+	padding-left: 230px;
+}
+
+
+
+/*Browser*/
+.Browser {
+	height: 755px;
+}
+.Browser .box {
+	padding-top: 110px;
+	width: 650px;
+	padding-left: 395px;
+}
+.Browser h2 {
+	padding-top: 18px;
+}
+.Browser p {
+	padding-top: 50px;
+	line-height: 22px;
+}
+.Browser h6 {
+	font-weight: bold;
+}
+
+
+
+/*Try now*/
+.Try_now {
+	height: 465px;
+}
+.Try_now .box {
+	padding-top: 100px;
+}
+.Try_now h2 {
+	padding-top: 16px;
+	color: white;
+}
+.Try_now input {
+	margin-top: 20px;
+	margin-right: 30px;
+
+	width: 260px;
+	height: 50px;
+
+	background-color: #464c77;
+
+	border: 1px solid white;
+	border-radius: 5px;
+
+	box-sizing: border-box;
+
+	color: white;
+
+	text-align: center;
+}
+.Try_now button {
+	width: 260px;
+	height: 50px;
+	border-radius: 5px;
+	background-color: #ff6d6d;
+	color: white;
+	border: none;
+}
+.Try_now p {
+	color: white;
+
+	padding-top: 50px;
+	min-width: 385px;
+}
+.Try_now span {
+	text-decoration: underline;
+}
+.Try_now .Arrow {
+	margin-top: 20px;
+	margin-bottom: 0;
+	margin-left: 875px;
+}
+
+
+
+/*Footer*/
+.Footer {
+	text-align: left;
+	height: 330px;
+}
+.Footer h3, .Footer h2, .Footer p {
+	font-size: 16px;
+	margin-bottom: 15px;
+}
+.Footer h2 {
+	font-weight: bold;
+}
+.Footer .box {
+	padding-left: 150px;
+}
+.Footer td {
+	height: 150px;
+	vertical-align: top;
+}
+.Footer .StartEX {
+	width: 240px;
+	padding-right: 65px;
+}
+.Footer .Support{
+	width: 90px;
+	padding-right: 115px;
+}
+.Footer .AboutUS {
+	width: 100px;
+	padding-right: 100px;
+}
+.Footer .AboutUS ul {
+	text-align: center;
+	height: 50px;
+}
+.Footer .Get_Newsletter button {
+	margin-left: -4px;
+	width: 50px;
+	height: 50px;
+	border-radius: 5px;
+	background-color: #ff6d6d;
+	color: white;
+	border: none;
+}
+.Footer .Get_Newsletter input {
+	width: 200px;
+	height: 50px;
+
+	background-color: #282828;
+	border: none;
+	border-radius: 5px;
+
+	box-sizing: border-box;
+
+	color: white;
+
+	text-align: center;
+}
+.Footer .Get_Newsletter .Society {
+	margin-top: 20px;
+}
+.Footer .Get_Newsletter .Society li {
+	margin-left: 10px;
+	margin-right: 40px;
+}
